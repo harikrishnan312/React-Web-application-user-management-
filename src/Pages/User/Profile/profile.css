@@ -1,0 +1,55 @@
+.user-profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color:#ccc;
+  }
+  
+  .avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .username {
+    font-size: 24px;
+    margin-bottom: 5px;
+  }
+  
+  .bio {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
+  .user-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .info-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  
+  .label {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
+  .value {
+    font-size: 14px;
+  }
+  /* Thashreef did this */
+  .btn{ 
+    margin: 5px;
+    background-color: #4CAF50;
+  }
+  
