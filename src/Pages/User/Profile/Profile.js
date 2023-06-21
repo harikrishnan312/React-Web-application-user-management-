@@ -79,7 +79,7 @@ function Profile() {
       <h2 className="username">{user.name}</h2>
       <div className="user-info">
         <div className="info-row">
-          <span className="label">Email:</span>
+          <span className="label">Email :</span>
           <span className="value">{user.email}</span>
         </div>
         <br></br>
